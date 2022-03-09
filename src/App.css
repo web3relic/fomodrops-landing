@@ -3,12 +3,11 @@
 }
 
 .App-logo {
-  height: 10vmin;
+  height: 20vmin;
   pointer-events: none;
 }
 
 .App-header {
-  background-color: #000;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
